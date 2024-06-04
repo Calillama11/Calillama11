@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @Calillama11
-- 👀 I’m interested in video games, some sports and music
-- 🌱 I’m currently learning C#
-- I mostly started writing scripts for Space Engineers
+- 🌱 I’m currently learning Python
